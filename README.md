@@ -3,6 +3,9 @@
 - Madde 1 
 * Amacım PHYTON İle Kodlama Yapmak
 
+[Bağlantı](https://https://www.instagram.com/)
+
+
 
 
 
