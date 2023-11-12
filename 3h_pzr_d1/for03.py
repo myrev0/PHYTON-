@@ -1,0 +1,1 @@
+#SYTNAX NİGHT CODE
