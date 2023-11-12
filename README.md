@@ -13,7 +13,7 @@
 > **Beni Instagramdan Da Takip Edebilirsiniz.**
 
 
-[Instagram Adresim.](https://www.instagram.com/irisakadir0/)
+[Instagram /irisakadir0](https://www.instagram.com/irisakadir0/)
 
 
 ---
