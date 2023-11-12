@@ -3,6 +3,7 @@
 - Madde 1 
 * Amacım PHYTON İle Kodlama Yapmak
 
+---
 
 **Ben Kimim???**
 
