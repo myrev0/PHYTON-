@@ -5,7 +5,7 @@
 
 [Instagram Adresim.](https://www.instagram.com/irisakadir0/)
 
-[![License](https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg)](LICENSE)
+[![License](https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png)](LICENSE)
 
 
 
