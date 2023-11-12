@@ -1,5 +1,7 @@
 #  MYREV Kadir İris README 
 
+- Madde 1 
+* Amacım PHYTON İle Kodlama Yapmak
 
 
 
