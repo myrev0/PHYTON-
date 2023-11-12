@@ -5,6 +5,8 @@
 
 [Instagram Adresim.](https://www.instagram.com/irisakadir0/)
 
+[vektörel](https://www.vektorelakademi.com/)
+
 [![License](https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png)](LICENSE)
 
 
