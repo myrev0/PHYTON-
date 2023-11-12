@@ -1,2 +1,1 @@
-print("Hello World")
-print("Hello World")
+print("Vektörel Bilişim İle İlk Deneme")
