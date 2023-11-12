@@ -15,6 +15,9 @@
 
 [Instagram Adresim.](https://www.instagram.com/irisakadir0/)
 
+
+---
+
 **Sevigili Vektörel Akademi.**
 
 [www.vektörelakademi.com](https://www.vektorelakademi.com/)
