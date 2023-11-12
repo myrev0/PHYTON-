@@ -15,7 +15,7 @@
 
 **Sevigili Vektörel Akademi.**
 
-[vektörel](https://www.vektorelakademi.com/)
+[www.vektörelakademi.com](https://www.vektorelakademi.com/)
 
 
 
