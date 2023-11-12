@@ -5,7 +5,7 @@
 
 [Instagram Adresim.](https://www.instagram.com/irisakadir0/)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-professional-python-programmer-computer-programmin-5230427%2F&psig=AOvVaw2AQZw9AAj52B5Fi_jVOTdL&ust=1699864513044000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiY3PWGvoIDFQAAAAAdAAAAABAU" width="200">
+[![License](https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg)](LICENSE)
 
 
 
