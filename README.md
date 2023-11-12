@@ -5,10 +5,10 @@
 
 **Ben Kimim???**
 
-**Myrev 'Revolka' Demek Bir Efsaneye Göre Kötülerin Düşmanı, Korkusuz Saçaşcı Demek.**
-**Myrev Yani Ben Rev Demek**
-**Kodlama Dünyasına Daha Yeni Girdim.**
-**Beni Instagramdan Da Takip Edebilirsiniz.**
+> **Myrev 'Revolka' Demek Bir Efsaneye Göre Kötülerin Düşmanı, Korkusuz Saçaşcı Demek.**
+> **Myrev Yani Ben Rev Demek**
+> **Kodlama Dünyasına Daha Yeni Girdim.**
+> **Beni Instagramdan Da Takip Edebilirsiniz.**
 
 
 [Instagram Adresim.](https://www.instagram.com/irisakadir0/)
