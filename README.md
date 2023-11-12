@@ -3,7 +3,7 @@
 - Madde 1 
 * Amacım PHYTON İle Kodlama Yapmak
 
-[Instagram Adresim.](https://https://www.instagram.com/irisakadir0)
+[Instagram Adresim.](https://www.instagram.com/irisakadir0/)
 
 
 
