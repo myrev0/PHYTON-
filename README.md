@@ -3,3 +3,6 @@
 
 > Merhabalar night code ile code ogrenin.
 > Destekleri için Vektorel bilişime şükranla.
+
+
+> Projelerim ufak ve öğrenim amaçlıdır.
