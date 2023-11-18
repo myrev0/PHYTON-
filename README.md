@@ -7,6 +7,6 @@
 >
 > [InstagramAdresim](https://www.instagram.com/irisakadir0/)
 >
-> ![Resimler](https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png)
+> ![Resimler](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
 
 * İyi Günler :D
