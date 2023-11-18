@@ -1,1 +1,4 @@
 #SYTNAX NİGHT CODE
+
+
+# eklenicek
