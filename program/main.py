@@ -1,2 +1,3 @@
-import konsol
-konsol.ekran()
+import konsolm
+
+konsolm.ekran()
