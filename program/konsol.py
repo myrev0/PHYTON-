@@ -7,8 +7,11 @@ import yassınırı
 import yas
 import sinif
 
+# sytnax night code
 
-def login_ekran(): # Çalışabilmesi İçin Önce Bunu Fonksiyona Aldım Ki İlk Bu Alan Çıksın
+
+
+def ekran(): # Çalışabilmesi İçin Önce Bunu Fonksiyona Aldım Ki İlk Bu Alan Çıksın
     print("╔════════════════════════════╗")
     print("║                            ║")
     print("║ Kullanıcı Aadı :           ║")
@@ -50,27 +53,25 @@ def konsolmenu():
   # Konsol Menüsünü Yaptım.
 
   secim = input("Lütfen Seçim Yapınız 1-10 Çıkış İçin E")
-  
-    if secim == "1":
-        print("Hesap Makinasına Aktarıyorum")
-        hesapm.hesap()
-    
-    if secim == "2":
-        print("E Vektörele Aktarıyorum")
-        evektorel.menU()
+  if secim == "1":
+    print("Hesap Makinasına Aktarıyorum")
+    #hesapm.hesap()
+            
+  if secim == "2":
+    print("E Vektörele Aktarıyorum")
+    evektorel.menU()
 
-    if secim == "3":
-        print("Sayı Tahmin Oyununa Aktarıyorum")
-        oyun.tahmin()
+  if secim == "3":
+    print("Sayı Tahmin Oyununa Aktarıyorum")
+    oyun.tahmin()
 
-    if secim == "4":
-        print("Yaş Testine Aktarıyorum")
-        yas.yastesti()
+  if secim == "4":
+    print("Yaş Testine Aktarıyorum")
+    yas.yastesti()
 
-    if secim == "5":
-        print("Sınıf Bilgilerine Aktarıyorum")
-        sinif.sinif_bilgi()
-
-
-
-    
+  if secim == "5":
+    print("Sınıf Bilgilerine Aktarıyorum")
+    sinif.sinif_bilgi()
+  if secim == "e" or "E":
+     print("Programdan Çıkıyorsunuz")
+     exit()
