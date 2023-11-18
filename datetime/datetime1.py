@@ -1,12 +1,11 @@
-#Sytnax Night Code
+# #Sytnax Night Code
 
 
-from datetime import datetime
+import datetime
+# import random
 
 
-print("Bugün",datetime.today())
+print("Bugün",datetime.date.today()) # Saatsiz Bir Şekilde Bu Günü Gösterir.
 
-print("Şimdi",datetime.now())
-
-
+print("Şimdi",datetime.datetime.now()) # Saat İle Beraber Bu Günü Gösterir.
 
