@@ -2,4 +2,4 @@
 
 import konsol
 
-# konsol.login_ekran()
+konsol.login_ekran()
