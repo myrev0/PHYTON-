@@ -59,7 +59,7 @@ def konsolmenu():
             
   if secim == "2":
     print("E Vektörele Aktarıyorum")
-    evektorel.menU()
+    evektorel.menu()
 
   if secim == "3":
     print("Sayı Tahmin Oyununa Aktarıyorum")
