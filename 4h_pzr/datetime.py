@@ -1,6 +1,6 @@
 # #syntax night code 
 
-# import datetime 
+import datetime 
 
 
 # abc = datetime.date.today()
@@ -16,3 +16,8 @@
 # zaman = str(datetime.tzinfo())
 
 # print("Şimdi", zaman)
+
+
+cevir = today.strftime("%y:%d:%m:%y")
+
+print("Çevirilmiş Zaman Dilimi ;", cevir, type(cevir))
