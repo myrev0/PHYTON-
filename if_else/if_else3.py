@@ -6,7 +6,6 @@
 # sonra TC vatandaşımı, Yaş sınırını geçebiliyormu birde bir kaç soru sorsun sınav tazrı
 # isteğe bağlı fonksiyon kullanabiliriz
 
-
 def baslangic():
 
     print("Merhaba T.C Sürücü Eğitim Kursu Başvuru Ekranına Hoş Geldiniz. İşlem Yapmak İçin Soruları Cevaplayınız.")
@@ -15,14 +14,14 @@ def baslangic():
 
     if baslangic == "devam":
         basvuru()
-    if baslangic == "iptal"
+    if baslangic == "iptal":
         print("Sistemden çıkılıyor.")
         exit()
 
 
 def basvuru():
 
-    print("T.C Başvuru Ekranı")
+    print("T.C Ehliyet Başvuru Ekranı Başvuru Ekranı")
 
     yas = int(input("soru 1: Yaşınız Nedir?"))
     isim = input("Soru 2: İsim?")
@@ -33,9 +32,10 @@ def basvuru():
     if yas < 18:
         print("Malesef Yaşınız Yetmiyor Ehliyet Alamazsınız!")
         baslangic() 
-    
-    if uyruk != "diğer":
-        baslangic()
+
+    if uyruk == "diğer":
+        print("Ehliyet Alabilmek İçin TC Vatandaşı Olabilmeniz Gerekiyor Nüfus Müdürlüğü İle İletişime Geçiniz.")
+        exit()
 
     print("Merhaba",isim,soy_isim,"Ehliyet Alabilirsiniz.")
     cikti_sor = input("Çıktı Almak İstiyormusunuz? evet/hayır")
@@ -43,4 +43,3 @@ def basvuru():
     if cikti_sor == "evet":
         print("İsim :",isim,"Soy İsim:",soy_isim,"Yaş:",yas,"Memleket:",memleket,"Uyruk",uyruk,"cinsiyet:",cinsiyet,)
 
-    
