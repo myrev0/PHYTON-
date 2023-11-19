@@ -13,9 +13,9 @@ import datetime
 # print("Şimdi", abd)
 
 
-# zaman = str(datetime.tzinfo())
+# zaman = datetime.datetime.time()
 
-# print("Şimdi", zaman)
+# print("Şimdi", zaman)   #aga bu çalışmadı bakacam buna
 
 
 # from datetime import date
@@ -27,5 +27,8 @@ import datetime
 # cevir = today.strftime("%Y:%d:%m:%Y")
 
 # print("Çevirilmiş Zaman Dilimi ;", cevir, type(cevir))
+
+
+
 
 
