@@ -18,6 +18,14 @@ import datetime
 # print("Şimdi", zaman)
 
 
-cevir = today.strftime("%y:%d:%m:%y")
+# from datetime import date
 
-print("Çevirilmiş Zaman Dilimi ;", cevir, type(cevir))
+# today = date.today()
+# print("Çevirilmemiş Zaman Dilimi", today, type(today))
+
+
+# cevir = today.strftime("%Y:%d:%m:%Y")
+
+# print("Çevirilmiş Zaman Dilimi ;", cevir, type(cevir))
+
+
