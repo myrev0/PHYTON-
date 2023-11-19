@@ -32,3 +32,6 @@ import datetime
 
 
 
+a = "kadir"
+
+print(a[-2:])
