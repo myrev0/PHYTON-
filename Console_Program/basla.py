@@ -15,7 +15,7 @@ import akilli_takvim
 import onsis.login
 import gun
 import yt
-import nightgaleri.kullanici
+# Şimdilik İn Aktif import nightgaleri.kullanici
 import sekil
 
 
