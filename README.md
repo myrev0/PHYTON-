@@ -11,8 +11,6 @@
 
 * Sosyal Medya Hesaplarım.
 
-* ![Resimler](https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png)
-
-* [Night Code Community](https://www.discord.com/NightCodeCommunity/)
+> Proje Amacı Konsol Proje Yaparak Faydalı İişler Yapmak! :)
 
 * 
