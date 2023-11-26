@@ -8,3 +8,6 @@ def log():
 
 
     gecis = input("Geçiş Yapınız.")
+    print("Geçiş Yapıldı.")
+
+    
