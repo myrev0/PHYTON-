@@ -49,21 +49,21 @@ def sifre(): # fonksiyona attım ki main de görsün :)
 
 def konsolmenu(): #Evet ve menü fonksiyonumuz
 
-  print("╔═════════════════════════╗")
-  print("║      Console Menu       ║")
-  print("║                         ║")
-  print("║*Hesap Makinesi -1       ║")
-  print("║*Oyun  -2                ║")
-  print("║*Proje  -3               ║")
-  print("║*Moral Bankası :)  -4    ║")
-  print("║*Akıllı Takvim     -5    ║")
-  print("║*Personel Takip Sistemi-6║")
-  print("║*Hangi Gündeyiz -7       ║")
-  print("║*Yazı Tura -8            ║")
-  print("║*Galeri Sistemi -9       ║")
-  print("║*Şekil Çizme Programı -10║")
-  print("║*Çıkış (e)  -8           ║")
-  print("╚═════════════════════════╝")
+  print("╔═════════════════════════════════════╗")
+  print("║           Console Menu              ║")
+  print("║                                     ║")
+  print("║*Hesap Makinesi -1                   ║")
+  print("║*Oyun  -2                            ║")
+  print("║*Proje  -3                           ║")
+  print("║*Moral Bankası :)  -4                ║")
+  print("║*Akıllı Takvim     -5                ║")
+  print("║*Personel Takip Sistemi-6            ║")
+  print("║*Hangi Gündeyiz -7                   ║")
+  print("║*Yazı Tura -8                        ║")
+  print("║*Galeri Sistemi -9                   ║")
+  print("║*Şekil Çizme Programı -10  (inaktif  ║")
+  print("║*Çıkış (e)  -8                       ║")
+  print("╚═════════════════════════════════════╝")
 
   secim = input("") # İnputun İçine Yazı yazardım seçim yap diye ama print ile yaptım niye yaptım bende bilmiyom 
   print("Seçim Yapınız. 1-8", secim) # bunu inputla yapardım ama kullanımı gözüksün diye koydum ellam
@@ -103,10 +103,6 @@ def konsolmenu(): #Evet ve menü fonksiyonumuz
     night.kullanici.login_screen()
     konsolmenu()
   
-  if secim == "10":
-    sekil.sekil()
-    konsolmenu()
-
 
   if secim == "11": # Haaaaaa Bu da 11 derse programdan çıkıyor işte.
     print("Programdan Çıkılıyor.") # bu printi
