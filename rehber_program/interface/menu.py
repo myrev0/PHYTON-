@@ -27,16 +27,16 @@ def menu():
     secim = input("Lütfen Seçim Yapınız. 1-4 Çıkış İçin 5")
 
     if secim == "1":
-        system.kayit.kayit()
+        sistem.kayit.kayit()
         menu()
     if secim == "2":
-        system.sil.sil()
+        sistem.sil.sil()
         menu()
     if secim == "3":
-        system.kayitli.kayitli()
+        sistem.kayitli.kayitli()
         menu()
     if secim == "4":
-        system.düzenle.düzenle()
+        sistem.düzenle.düzenle()
         menu()
     if secim == "5":
         print("Başarıyla Çıkış Yapılıyor.")
